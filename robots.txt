@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jbangcentral.github.io/al-folio/sitemap.xml
